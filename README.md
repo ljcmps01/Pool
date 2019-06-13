@@ -1,2 +1,2 @@
 # Pool
-Programa del grupo de Balducitos
+Programa del grupo de Balducito
